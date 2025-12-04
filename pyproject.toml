@@ -1,6 +1,6 @@
 [project]
 name = "pycausal_dai"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Python package for causal inference methods including ATE estimation, propensity score methods, and meta-learners"
 readme = "README.md"
 requires-python = ">=3.11"
