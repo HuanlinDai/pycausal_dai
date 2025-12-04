@@ -3,7 +3,7 @@ name = "pycausal_dai"
 version = "0.1.0"
 description = "A Python package for causal inference methods including ATE estimation, propensity score methods, and meta-learners"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.11"
 license = {text = "MIT"}
 authors = [
     {name = "Huanlin Dai", email = "dai.huan.lin@gmail.com"}
@@ -68,7 +68,7 @@ target-version = ['py38', 'py39', 'py310', 'py311']
 include = '\.pyi?$'
 
 [tool.mypy]
-python_version = "3.12"
+python_version = "3.11"
 warn_return_any = true
 warn_unused_configs = true
 disallow_untyped_defs = false
