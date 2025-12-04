@@ -25,12 +25,13 @@ pip install .
 
 ## Getting Started
 
+```python
 from pycausal_dai import ...  # import the module(s) you need
 # Example usage:
 #   - load your data (features, treatment, outcome)
 #   - compute propensity scores or apply meta-learner
 #   - estimate ATE or other causal quantities
-
+```
 
 ## License
 
